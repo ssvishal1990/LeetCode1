@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllPossibleBinaryTrees/AllPossibleBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllPossibleBinaryTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllPossibleBinaryTrees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageLevelsBinaryTree/AverageLevelOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageLevelsBinaryTree/AverageLevelOfBinaryTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BInaryTreeLevelOrderTraversal_2/BinaryLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneGraph/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneGraph/CloneGraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneGraph/CloneGraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneGraph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CourseSchedule/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CourseSchedule/CourseScheduleEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CourseSchedule/CourseScheduleOneMoreTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecodeString/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FIndTheDuplibcateNumber/FindDublicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindAllTheDuplicateNumbers/FindAllTheDuplicateNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloorFill/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloorFill/FloodFillExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IslandPerimeter/IslandPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IslandPerimeter/IslandPerimeterEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyAndPoints/KeysAndRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnightOnChessBoard/KnightOnChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfIslands/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfIslands/NumberOfIslandsDfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfProvinces/NumberOfProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PacificIslandWaterFlow/PacificAtlantic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PacificIslandWaterFlow/PacificAtlanticWaterFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PacificIslandWaterFlow/PacificAtlanticWaterFloww.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveNodesFromLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveNodesFromLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceWords/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseTheLinkedList/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotteinOranges/RottenOraganges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotteinOranges/RottenOrangesEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetZeroes/SetZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpiralMatrix/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SurroundedRegions/SurroundedRegionEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SurroundedRegions/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WinnerOfCircularGame/CircularGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch/WordSearchBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch/WordSearchDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch2/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZigZagLevelOrderTraversal/ZigZagLevelOrderTraversal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/util/Collection.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ffhkIS0UwhNVQvwIMEJF7lJMuD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CourseSchedule__2$Test.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.IslandPerimeter$Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeysAndRooms$Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfIslands$tMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfIslandsDfs$tMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RottenOraganges.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SurroundedRegionEnhanced.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SurroundedRegions$Test.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.WordSearch$Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordSearchBFS$Test.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java And Spring/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.RottenOraganges">
+    <configuration name="RottenOraganges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotteinOranges.RottenOraganges" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RotteinOranges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurroundedRegionEnhanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SurroundedRegions.SurroundedRegionEnhanced" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SurroundedRegions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurroundedRegions$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SurroundedRegions.SurroundedRegions$Test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SurroundedRegions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearch$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch.WordSearch$Test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearchBFS$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch.WordSearchBFS$Test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RottenOraganges" />
+        <item itemvalue="Application.WordSearch$Test" />
+        <item itemvalue="Application.WordSearchBFS$Test" />
+        <item itemvalue="Application.SurroundedRegionEnhanced" />
+        <item itemvalue="Application.SurroundedRegions$Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="" />
+      <created>1714198180784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714198180784</updated>
+      <workItem from="1714198181823" duration="9000" />
+      <workItem from="1714449248221" duration="637000" />
+      <workItem from="1714803377139" duration="969000" />
+      <workItem from="1714908637328" duration="9826000" />
+      <workItem from="1714993857048" duration="1764000" />
+      <workItem from="1715925903647" duration="862000" />
+      <workItem from="1716026366516" duration="605000" />
+      <workItem from="1716097340592" duration="1427000" />
+      <workItem from="1716175484950" duration="594000" />
+      <workItem from="1716211208682" duration="1632000" />
+      <workItem from="1716289325879" duration="1198000" />
+      <workItem from="1716299732599" duration="301000" />
+      <workItem from="1716347910169" duration="1221000" />
+      <workItem from="1716467117042" duration="614000" />
+      <workItem from="1716547900918" duration="6483000" />
+      <workItem from="1716880973519" duration="2436000" />
+      <workItem from="1716969410752" duration="653000" />
+      <workItem from="1717077750573" duration="2992000" />
+      <workItem from="1717239170504" duration="5482000" />
+      <workItem from="1717382303823" duration="1418000" />
+      <workItem from="1717588048017" duration="11045000" />
+      <workItem from="1717643637916" duration="8859000" />
+      <workItem from="1717761441888" duration="5209000" />
+      <workItem from="1717909682250" duration="8657000" />
+      <workItem from="1718087486390" duration="3781000" />
+      <workItem from="1718173400518" duration="596000" />
+      <workItem from="1718251201776" duration="2483000" />
+      <workItem from="1718624200711" duration="7565000" />
+      <workItem from="1718678628588" duration="11235000" />
+      <workItem from="1718769128266" duration="1925000" />
+      <workItem from="1718869775349" duration="6253000" />
+      <workItem from="1718943098942" duration="11475000" />
+      <workItem from="1718971340709" duration="479000" />
+      <workItem from="1719200026114" duration="8055000" />
+      <workItem from="1719307778352" duration="4811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DecodeString/DecodeString.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PacificIslandWaterFlow/PacificAtlanticWaterFloww.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KeyAndPoints/KeysAndRooms.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NumberOfIslands/NumberOfIslandsDfs.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CourseSchedule__2/CourseSchedule__2.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IslandPerimeter/IslandPerimeter.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IslandPerimeter/IslandPerimeter.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordSearch/WordSearch.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordSearch/WordSearchBFS.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordSearch/WordSearchBFS.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="28" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="board[x][y] == word.charAt(currentCharIndex" />
+        <watch expression="board[x][y]" />
+        <watch expression="word.charAt(currentCharIndex)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
