@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="First Commit &#10;&#10;Should've maintained history">
-      <change afterPath="$PROJECT_DIR$/src/AllPathsFromSourceToTarget/AllPossiblePathFromSourceToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPathsFromSourceToTarget/AllPossiblePathFromSourceToTargetEnhanced.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 787">
+      <change afterPath="$PROJECT_DIR$/src/LexicographicalNumbers/LexicographicalNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +195,7 @@
       <workItem from="1719307778352" duration="5226000" />
       <workItem from="1719989534340" duration="2415000" />
       <workItem from="1719997442888" duration="11875000" />
-      <workItem from="1720157955227" duration="4844000" />
+      <workItem from="1720157955227" duration="6663000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -206,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719323056739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Leetcode 787">
+      <option name="closed" value="true" />
+      <created>1720170865239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720170865239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +221,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit &#10;&#10;Should've maintained history" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit &#10;&#10;Should've maintained history" />
+    <MESSAGE value="Leetcode 787" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 787" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
