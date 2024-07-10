@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 787">
-      <change afterPath="$PROJECT_DIR$/src/LexicographicalNumbers/LexicographicalNumbers.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 386">
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate/ContainsDublicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupAnagram/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupAnagram/GroupAnagramEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidAnagram/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidAnagram/ValidAnagramBetterApproach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +49,7 @@
     "Application.CheapestFlight2.executor": "Run",
     "Application.CheapestFlight3.executor": "Run",
     "Application.CourseSchedule__2$Test.executor": "Debug",
+    "Application.GroupAnagramEnhanced.executor": "Run",
     "Application.IslandPerimeter$Test.executor": "Run",
     "Application.KeysAndRooms$Test.executor": "Run",
     "Application.Main.executor": "Run",
@@ -53,6 +59,7 @@
     "Application.RottenOraganges.executor": "Run",
     "Application.SurroundedRegionEnhanced.executor": "Run",
     "Application.SurroundedRegions$Test.executor": "Debug",
+    "Application.ValidAnagram.executor": "Run",
     "Application.WordSearch$Test.executor": "Run",
     "Application.WordSearchBFS$Test.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -74,26 +81,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AllPossiblePathFromSourceToTarget">
+  <component name="RunManager" selected="Application.GroupAnagramEnhanced">
     <configuration name="AllPossiblePathFromSourceToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllPathsFromSourceToTarget.AllPossiblePathFromSourceToTarget" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AllPathsFromSourceToTarget.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheapestFlight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheapestFlightsWithinKStops.CheapestFlight" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CheapestFlightsWithinKStops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RottenOraganges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotteinOranges.RottenOraganges" />
+    <configuration name="GroupAnagramEnhanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupAnagram.GroupAnagramEnhanced" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RotteinOranges.*" />
+          <option name="PATTERN" value="GroupAnagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidAnagram.ValidAnagram" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupAnagramEnhanced" />
+        <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.AllPossiblePathFromSourceToTarget" />
         <item itemvalue="Application.CheapestFlight3" />
         <item itemvalue="Application.CheapestFlight2" />
-        <item itemvalue="Application.CheapestFlight" />
-        <item itemvalue="Application.RottenOraganges" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +202,9 @@
       <workItem from="1719307778352" duration="5226000" />
       <workItem from="1719989534340" duration="2415000" />
       <workItem from="1719997442888" duration="11875000" />
-      <workItem from="1720157955227" duration="6663000" />
+      <workItem from="1720157955227" duration="7555000" />
+      <workItem from="1720528415794" duration="8674000" />
+      <workItem from="1720611513616" duration="1874000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -213,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720170865239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Leetcode 386">
+      <option name="closed" value="true" />
+      <created>1720174387918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720174387918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +239,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit &#10;&#10;Should've maintained history" />
     <MESSAGE value="Leetcode 787" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 787" />
+    <MESSAGE value="Leetcode 386" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 386" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
