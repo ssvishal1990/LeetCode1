@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 386">
-      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate/ContainsDublicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupAnagram/GroupAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupAnagram/GroupAnagramEnhanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidAnagram/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidAnagram/ValidAnagramBetterApproach.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 49">
+      <change afterPath="$PROJECT_DIR$/src/KMostFrequentElements/KMostFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KMostFrequentElements/KMostFrequentElementsEnhanced.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -51,6 +52,7 @@
     "Application.CourseSchedule__2$Test.executor": "Debug",
     "Application.GroupAnagramEnhanced.executor": "Run",
     "Application.IslandPerimeter$Test.executor": "Run",
+    "Application.KMostFrequentElements.executor": "Run",
     "Application.KeysAndRooms$Test.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumberOfIslands$tMain.executor": "Run",
@@ -66,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Leetcode347",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Java And Spring/leetcode",
     "node.js.detected.package.eslint": "true",
@@ -81,26 +83,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GroupAnagramEnhanced">
+  <component name="RunManager" selected="Application.KMostFrequentElements">
     <configuration name="AllPossiblePathFromSourceToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllPathsFromSourceToTarget.AllPossiblePathFromSourceToTarget" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AllPathsFromSourceToTarget.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheapestFlight2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheapestFlightsWithinKStops.CheapestFlight2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CheapestFlightsWithinKStops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KMostFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMostFrequentElements.KMostFrequentElements" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KMostFrequentElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidAnagram.ValidAnagram" />
       <module name="leetcode" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KMostFrequentElements" />
         <item itemvalue="Application.GroupAnagramEnhanced" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.AllPossiblePathFromSourceToTarget" />
         <item itemvalue="Application.CheapestFlight3" />
-        <item itemvalue="Application.CheapestFlight2" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +206,7 @@
       <workItem from="1719997442888" duration="11875000" />
       <workItem from="1720157955227" duration="7555000" />
       <workItem from="1720528415794" duration="8674000" />
-      <workItem from="1720611513616" duration="1874000" />
+      <workItem from="1720611513616" duration="4783000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -230,17 +232,37 @@
       <option name="project" value="LOCAL" />
       <updated>1720174387918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Leetcode 49">
+      <option name="closed" value="true" />
+      <created>1720614208968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720614208968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit &#10;&#10;Should've maintained history" />
     <MESSAGE value="Leetcode 787" />
     <MESSAGE value="Leetcode 386" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 386" />
+    <MESSAGE value="Leetcode 49" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
