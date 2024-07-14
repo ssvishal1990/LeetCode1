@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 347">
-      <change afterPath="$PROJECT_DIR$/src/DecodeString/DecodeString5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestConsecutiveSequence/ConsecutiveCountEnhanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestConsecutiveSequence/LongestConsequitiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReachingPoints/ReachingPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidSudoku/ValidSudoku.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 347, 36,">
+      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecodeString/DecodeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +67,7 @@
     "Application.SurroundedRegionEnhanced.executor": "Run",
     "Application.SurroundedRegions$Test.executor": "Debug",
     "Application.ValidAnagram.executor": "Run",
+    "Application.ValidParenthesis.executor": "Debug",
     "Application.ValidSudoku.executor": "Debug",
     "Application.WordSearch$Test.executor": "Run",
     "Application.WordSearchBFS$Test.executor": "Debug",
@@ -95,26 +90,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestConsequitiveSequence">
+  <component name="RunManager" selected="Application.ValidParenthesis">
     <configuration name="ConsecutiveCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence.ConsecutiveCount" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LongestConsecutiveSequence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeString4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecodeString.DecodeString4" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecodeString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode150.stack.ValidParenthesis" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetcode150.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidSudoku.ValidSudoku" />
       <module name="leetcode" />
@@ -163,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.LongestConsequitiveSequence" />
         <item itemvalue="Application.ConsecutiveCount" />
         <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.DecodeString5" />
-        <item itemvalue="Application.DecodeString4" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +215,7 @@
       <workItem from="1720528415794" duration="8674000" />
       <workItem from="1720611513616" duration="11298000" />
       <workItem from="1720676893217" duration="17318000" />
-      <workItem from="1720877688362" duration="3980000" />
+      <workItem from="1720877688362" duration="4332000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -262,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720617583663</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Leetcode 347, 36,">
+      <option name="closed" value="true" />
+      <created>1720966612809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720966612809</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +288,8 @@
     <MESSAGE value="Leetcode 386" />
     <MESSAGE value="Leetcode 49" />
     <MESSAGE value="Leetcode 347" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 347" />
+    <MESSAGE value="Leetcode 347, 36," />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 347, 36," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -373,19 +377,22 @@
           </properties>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/neetcode150/stack/ValidParenthesis.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/neetcode150/stack/ValidParenthesis.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="28" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="board[x][y] == word.charAt(currentCharIndex" />
-        <watch expression="board[x][y]" />
-        <watch expression="word.charAt(currentCharIndex)" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
