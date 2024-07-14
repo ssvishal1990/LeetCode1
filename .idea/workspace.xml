@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 347, 36,">
-      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/ValidParenthesis.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 20">
+      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/MinStackEnhanced.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -215,7 +216,7 @@
       <workItem from="1720528415794" duration="8674000" />
       <workItem from="1720611513616" duration="11298000" />
       <workItem from="1720676893217" duration="17318000" />
-      <workItem from="1720877688362" duration="4332000" />
+      <workItem from="1720877688362" duration="7067000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -265,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720966612809</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Leetcode 20">
+      <option name="closed" value="true" />
+      <created>1720968952219</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720968952219</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +298,8 @@
     <MESSAGE value="Leetcode 49" />
     <MESSAGE value="Leetcode 347" />
     <MESSAGE value="Leetcode 347, 36," />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 347, 36," />
+    <MESSAGE value="Leetcode 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
