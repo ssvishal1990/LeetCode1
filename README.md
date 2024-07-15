@@ -16,3 +16,8 @@ Rearrange String k Distance Apart -- Q & A below
 264. Ugly Number II
 263. Ugly Number
 502. IPO
+
+
+
+
+https://leetcode.com/problems/car-fleet/solutions/5167204/must-read-monotonic-stack-pattern-variations/
