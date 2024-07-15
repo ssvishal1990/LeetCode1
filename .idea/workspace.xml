@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 20">
-      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/MinStackEnhanced.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 155">
+      <change afterPath="$PROJECT_DIR$/src/neetcode150/stack/EvaluateReversePolishNotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Application.DecodeString3.executor": "Run",
     "Application.DecodeString4.executor": "Run",
     "Application.DecodeString5.executor": "Run",
+    "Application.EvaluateReversePolishNotation.executor": "Run",
     "Application.GroupAnagramEnhanced.executor": "Run",
     "Application.IslandPerimeter$Test.executor": "Run",
     "Application.KMostFrequentElements.executor": "Run",
@@ -91,7 +91,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidParenthesis">
+  <component name="RunManager" selected="Application.EvaluateReversePolishNotation">
     <configuration name="ConsecutiveCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence.ConsecutiveCount" />
       <module name="leetcode" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodeString5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecodeString.DecodeString5" />
+    <configuration name="EvaluateReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode150.stack.EvaluateReversePolishNotation" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecodeString.*" />
+          <option name="PATTERN" value="neetcode150.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvaluateReversePolishNotation" />
         <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.LongestConsequitiveSequence" />
         <item itemvalue="Application.ConsecutiveCount" />
         <item itemvalue="Application.ValidSudoku" />
-        <item itemvalue="Application.DecodeString5" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,8 @@
       <workItem from="1720528415794" duration="8674000" />
       <workItem from="1720611513616" duration="11298000" />
       <workItem from="1720676893217" duration="17318000" />
-      <workItem from="1720877688362" duration="7067000" />
+      <workItem from="1720877688362" duration="7827000" />
+      <workItem from="1721020819853" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -274,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720968952219</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Leetcode 155">
+      <option name="closed" value="true" />
+      <created>1720975771764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720975771764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +308,8 @@
     <MESSAGE value="Leetcode 347" />
     <MESSAGE value="Leetcode 347, 36," />
     <MESSAGE value="Leetcode 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 20" />
+    <MESSAGE value="Leetcode 155" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 155" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
