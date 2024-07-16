@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 150">
-      <change afterPath="$PROJECT_DIR$/src/DailyTemperature/DailyTemoperatureEnhanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyTemperature/DailyTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyTemperature/DailyTemperatureFurtherEnhanced.java" afterDir="false" />
+    <list default="true" id="6f2f086e-eef1-49e3-9ea3-e61a1581af54" name="Changes" comment="Leetcode 739">
+      <change afterPath="$PROJECT_DIR$/src/CarFleet/CarFleet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AllPossiblePathFromSourceToTarget.executor": "Run",
+    "Application.CarFleet.executor": "Run",
     "Application.CheapestFlight.executor": "Run",
     "Application.CheapestFlight2.executor": "Run",
     "Application.CheapestFlight3.executor": "Run",
@@ -93,7 +92,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvaluateReversePolishNotation">
+  <component name="RunManager" selected="Application.CarFleet">
+    <configuration name="CarFleet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarFleet.CarFleet" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CarFleet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsecutiveCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence.ConsecutiveCount" />
       <module name="leetcode" />
@@ -146,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidSudoku.ValidSudoku" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ValidSudoku.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarFleet" />
         <item itemvalue="Application.EvaluateReversePolishNotation" />
         <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.LongestConsequitiveSequence" />
         <item itemvalue="Application.ConsecutiveCount" />
-        <item itemvalue="Application.ValidSudoku" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,7 @@
       <workItem from="1720611513616" duration="11298000" />
       <workItem from="1720676893217" duration="17318000" />
       <workItem from="1720877688362" duration="7827000" />
-      <workItem from="1721020819853" duration="6003000" />
+      <workItem from="1721020819853" duration="8418000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit &#10;&#10;Should've maintained history">
       <option name="closed" value="true" />
@@ -293,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721043658341</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Leetcode 739">
+      <option name="closed" value="true" />
+      <created>1721111782733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721111782733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +327,8 @@
     <MESSAGE value="Leetcode 20" />
     <MESSAGE value="Leetcode 155" />
     <MESSAGE value="Leetcode 150" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 150" />
+    <MESSAGE value="Leetcode 739" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode 739" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
