@@ -21,3 +21,6 @@ Rearrange String k Distance Apart -- Q & A below
 
 
 https://leetcode.com/problems/car-fleet/solutions/5167204/must-read-monotonic-stack-pattern-variations/
+
+
+https://leetcode.com/discuss/study-guide/1000929/solved-all-dynamic-programming-dp-problems-in-7-months/2495132
